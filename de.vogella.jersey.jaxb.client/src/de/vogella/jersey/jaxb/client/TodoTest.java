@@ -33,6 +33,7 @@ public class TodoTest {
 	    
 	    System.out.println(xmlResponse);
 	    System.out.println(xmlAppResponse);
+	    System.out.println("haha");
 	  }
 
 	  private static URI getBaseURI() {
